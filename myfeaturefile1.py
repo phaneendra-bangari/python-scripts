@@ -7,3 +7,6 @@ Adding more content to this file to understand rebase. Adding this content from 
 
 Adding more information temporarily to move to stashing. This is not a new file.
 
+Adding more to learn Stashing and Branching.
+
+Adding more from newbranch
