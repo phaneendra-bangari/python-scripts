@@ -5,3 +5,5 @@ Adding more information to test merging concepts.
 Testing the modification of same file with different merges.
 
 This line is added using, temporarynotes branch.
+
+Adding a line from master branch to test merge conflict.
