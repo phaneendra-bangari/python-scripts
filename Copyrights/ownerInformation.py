@@ -1,6 +1,7 @@
 Hello!
 My name is Phaneendra Bangari!
-As Python is not yet installed on my Instance yet. I am using this file to test the GIT Versions and learning the same.
+
+I am learing Python 3.X. I use this repository to save all the practiced scripts and write more own scripts going further.
 
 Name: Phaneendra
 Occupation: Senior Devops Engineer
